@@ -328,7 +328,7 @@ MIT © [OHIF](https://github.com/OHIF)
 [platform-viewer]: platform/app/README.md
 [viewer-npm]: https://www.npmjs.com/package/@ohif/app
 <!-- Extensions -->
-[extension-cornerstone]: extensions/cornerstone/README.md
+[extension-cornerstone]: =extensions/cornerstone/README.md
 [cornerstone-npm]: https://www.npmjs.com/package/@ohif/extension-cornerstone
 [extension-dicom-html]: extensions/dicom-html/README.md
 [html-npm]: https://www.npmjs.com/package/@ohif/extension-dicom-html
